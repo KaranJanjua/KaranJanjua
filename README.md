@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KaranJanjua
-- 👀 I’m interested in creating web application.
+- 👀 I’m interested in creating web applications.
 - 🌱 I’m currently learning ReactJs.
-- 💞️ I’m looking to collaborate on web or software application developement projects. 
+- 💞️ I’m looking to collaborate on web or software projects. 
 - 📫 How to reach me Karanbirjanjua@gmail.com
 
 <!---
